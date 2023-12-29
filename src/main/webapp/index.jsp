@@ -2,7 +2,7 @@
 <body>
 <h1>font color = 'red'>Welcome to Ashok IT..!! software training center in Bengaluru<font></h1> 
 <h2>Learn here .. lead Anywhere..! Best quality</h2>
-
+<h3> we are located in benagaluru</h3>
 <p>Ashok IT is a leading  Indaian  It training institute preparing tech-aspirants for flourshing careers in this challeging and compitative domain sinse 2020.we offer flexible<p>
 
 <p> contact : +91-7026236323<p>
